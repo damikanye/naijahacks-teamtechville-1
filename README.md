@@ -1,4 +1,4 @@
-# NaijaHacks Hackathon 2018
+# NaijaHacks Hackathon 2018.
 Techville
 Enemchukwu Daniel swept43@gmail.com
 Ogbogu Helen ogboguhelen4@gmail.com
